@@ -23,7 +23,7 @@ MooVee is an app that allows users to browse movies from the [The Movie Database
 ### App Walkthrough GIF
 `TODO://` https://submissions.us-east-1.linodeobjects.com/ios_university/BQcDC8fQ.gif
 
-<img src="https://submissions.us-east-1.linodeobjects.com/ios_university/BQcDC8fQ.gif" width=250><br>
+<img src=https://submissions.us-east-1.linodeobjects.com/ios_university/BQcDC8fQ.gif width=250><br>
 
 ### Notes
 I have an M1 Macbook Pro and I do not believe that the AlamoFire pod is not compatible with my system.  Therefore, I was unable to add movie poster images for my movies.
