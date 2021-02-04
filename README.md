@@ -9,21 +9,19 @@ MooVee is an app that allows users to browse movies from the [The Movie Database
 ## MooVee Part 1
 
 ### User Stories
-`TODO://` In the **User Stories section below**, add an `x` in the `-[ ]` like this `- [x]` for any user story you complete. (🚫 Remove this paragraph after checking off completed user stories)
 
 #### REQUIRED (10pts)
 - [x] (2pts) User sees an app icon on the home screen and a styled launch screen.
 - [x] (5pts) User can view and scroll through a list of movies now playing in theaters.
-- [ ] (3pts) User can view the movie poster image for each movie.
+- [x] (3pts) User can view the movie poster image for each movie.
 
 #### BONUS
 - [ ] (2pt) User can view the app on various device sizes and orientations.
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-`TODO://` https://submissions.us-east-1.linodeobjects.com/ios_university/BQcDC8fQ.gif
 
-<img src="https://submissions.us-east-1.linodeobjects.com/ios_university/BQcDC8fQ.gif" width=250><br>
+<img src="hhttps://submissions.us-east-1.linodeobjects.com/ios_university/xHeaLGiJ.gif" width=250><br>
 
 ### Notes
-I have an M1 Macbook Pro and I do not believe that the AlamoFire pod is not compatible with my system.  Therefore, I was unable to add movie poster images for my movies.
+I had to use Rosetta terminal and various commands for permission for various downloads such as Ruby extensions and command line tools but eventually I got Alamofire to work.
