@@ -16,6 +16,9 @@
 		3DCB9CC325C7D34500ECA2E3 /* MooVeeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DCB9CC225C7D34500ECA2E3 /* MooVeeUITests.swift */; };
 		3DCB9CD725C7DAB000ECA2E3 /* MoviesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DCB9CD625C7DAB000ECA2E3 /* MoviesViewController.swift */; };
 		3DCB9CE425C8E63700ECA2E3 /* MovieCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DCB9CE325C8E63700ECA2E3 /* MovieCell.swift */; };
+		50B9FC92BFC3D656F3A52B79 /* Pods_MooVeeTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3D7E21D9DB4A3B6445E7DF54 /* Pods_MooVeeTests.framework */; };
+		5334A5D9BF99CBD571ABE190 /* Pods_MooVee.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D11BBA00C5438D58E8CAB8F9 /* Pods_MooVee.framework */; };
+		C16F317F9C179F7609D090E2 /* Pods_MooVee_MooVeeUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 49D34C95CBAF9610A9F85009 /* Pods_MooVee_MooVeeUITests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +39,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		252F8F9E8E0DD2B03FECAC75 /* Pods-MooVee-MooVeeUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MooVee-MooVeeUITests.release.xcconfig"; path = "Target Support Files/Pods-MooVee-MooVeeUITests/Pods-MooVee-MooVeeUITests.release.xcconfig"; sourceTree = "<group>"; };
+		3D7E21D9DB4A3B6445E7DF54 /* Pods_MooVeeTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MooVeeTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3DCB9C9D25C7D34400ECA2E3 /* MooVee.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MooVee.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3DCB9CA025C7D34400ECA2E3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3DCB9CA225C7D34400ECA2E3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -51,6 +56,13 @@
 		3DCB9CC425C7D34500ECA2E3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3DCB9CD625C7DAB000ECA2E3 /* MoviesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoviesViewController.swift; sourceTree = "<group>"; };
 		3DCB9CE325C8E63700ECA2E3 /* MovieCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieCell.swift; sourceTree = "<group>"; };
+		44AB4A565A92A88AF09BB322 /* Pods-MooVeeTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MooVeeTests.debug.xcconfig"; path = "Target Support Files/Pods-MooVeeTests/Pods-MooVeeTests.debug.xcconfig"; sourceTree = "<group>"; };
+		49D34C95CBAF9610A9F85009 /* Pods_MooVee_MooVeeUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MooVee_MooVeeUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C035F3382B4EE3EFD7420851 /* Pods-MooVee.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MooVee.release.xcconfig"; path = "Target Support Files/Pods-MooVee/Pods-MooVee.release.xcconfig"; sourceTree = "<group>"; };
+		C4814A090E9DA9834557DAA1 /* Pods-MooVee.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MooVee.debug.xcconfig"; path = "Target Support Files/Pods-MooVee/Pods-MooVee.debug.xcconfig"; sourceTree = "<group>"; };
+		D11BBA00C5438D58E8CAB8F9 /* Pods_MooVee.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MooVee.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		DA033268357FD693A5D09EBE /* Pods-MooVee-MooVeeUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MooVee-MooVeeUITests.debug.xcconfig"; path = "Target Support Files/Pods-MooVee-MooVeeUITests/Pods-MooVee-MooVeeUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		FA6D3E39517AC502AA4E3AF9 /* Pods-MooVeeTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MooVeeTests.release.xcconfig"; path = "Target Support Files/Pods-MooVeeTests/Pods-MooVeeTests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +70,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5334A5D9BF99CBD571ABE190 /* Pods_MooVee.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -65,6 +78,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				50B9FC92BFC3D656F3A52B79 /* Pods_MooVeeTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -72,12 +86,37 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C16F317F9C179F7609D090E2 /* Pods_MooVee_MooVeeUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2265D70C6558A4956952B8B8 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				C4814A090E9DA9834557DAA1 /* Pods-MooVee.debug.xcconfig */,
+				C035F3382B4EE3EFD7420851 /* Pods-MooVee.release.xcconfig */,
+				DA033268357FD693A5D09EBE /* Pods-MooVee-MooVeeUITests.debug.xcconfig */,
+				252F8F9E8E0DD2B03FECAC75 /* Pods-MooVee-MooVeeUITests.release.xcconfig */,
+				44AB4A565A92A88AF09BB322 /* Pods-MooVeeTests.debug.xcconfig */,
+				FA6D3E39517AC502AA4E3AF9 /* Pods-MooVeeTests.release.xcconfig */,
+			);
+			name = Pods;
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		3B41B308BEBF19430DE82F28 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				D11BBA00C5438D58E8CAB8F9 /* Pods_MooVee.framework */,
+				49D34C95CBAF9610A9F85009 /* Pods_MooVee_MooVeeUITests.framework */,
+				3D7E21D9DB4A3B6445E7DF54 /* Pods_MooVeeTests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		3DCB9C9425C7D34400ECA2E3 = {
 			isa = PBXGroup;
 			children = (
@@ -85,6 +124,8 @@
 				3DCB9CB625C7D34500ECA2E3 /* MooVeeTests */,
 				3DCB9CC125C7D34500ECA2E3 /* MooVeeUITests */,
 				3DCB9C9E25C7D34400ECA2E3 /* Products */,
+				2265D70C6558A4956952B8B8 /* Pods */,
+				3B41B308BEBF19430DE82F28 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -138,9 +179,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 3DCB9CC725C7D34500ECA2E3 /* Build configuration list for PBXNativeTarget "MooVee" */;
 			buildPhases = (
+				50BDF6D4649A719775A7902C /* [CP] Check Pods Manifest.lock */,
 				3DCB9C9925C7D34400ECA2E3 /* Sources */,
 				3DCB9C9A25C7D34400ECA2E3 /* Frameworks */,
 				3DCB9C9B25C7D34400ECA2E3 /* Resources */,
+				4195BBF88D90E857593DB662 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -155,6 +198,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 3DCB9CCA25C7D34500ECA2E3 /* Build configuration list for PBXNativeTarget "MooVeeTests" */;
 			buildPhases = (
+				01A58B5FA8BAF1215F684B6E /* [CP] Check Pods Manifest.lock */,
 				3DCB9CAF25C7D34500ECA2E3 /* Sources */,
 				3DCB9CB025C7D34500ECA2E3 /* Frameworks */,
 				3DCB9CB125C7D34500ECA2E3 /* Resources */,
@@ -173,9 +217,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 3DCB9CCD25C7D34500ECA2E3 /* Build configuration list for PBXNativeTarget "MooVeeUITests" */;
 			buildPhases = (
+				8690157081B600FAF7BB14A1 /* [CP] Check Pods Manifest.lock */,
 				3DCB9CBA25C7D34500ECA2E3 /* Sources */,
 				3DCB9CBB25C7D34500ECA2E3 /* Frameworks */,
 				3DCB9CBC25C7D34500ECA2E3 /* Resources */,
+				B33BD77EFB97BD7DF59B400A /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -255,6 +301,109 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		01A58B5FA8BAF1215F684B6E /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-MooVeeTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		4195BBF88D90E857593DB662 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-MooVee/Pods-MooVee-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-MooVee/Pods-MooVee-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-MooVee/Pods-MooVee-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		50BDF6D4649A719775A7902C /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-MooVee-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		8690157081B600FAF7BB14A1 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-MooVee-MooVeeUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		B33BD77EFB97BD7DF59B400A /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-MooVee-MooVeeUITests/Pods-MooVee-MooVeeUITests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-MooVee-MooVeeUITests/Pods-MooVee-MooVeeUITests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-MooVee-MooVeeUITests/Pods-MooVee-MooVeeUITests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		3DCB9C9925C7D34400ECA2E3 /* Sources */ = {
@@ -437,6 +586,7 @@
 		};
 		3DCB9CC825C7D34500ECA2E3 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = C4814A090E9DA9834557DAA1 /* Pods-MooVee.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -455,6 +605,7 @@
 		};
 		3DCB9CC925C7D34500ECA2E3 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = C035F3382B4EE3EFD7420851 /* Pods-MooVee.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -473,6 +624,7 @@
 		};
 		3DCB9CCB25C7D34500ECA2E3 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 44AB4A565A92A88AF09BB322 /* Pods-MooVeeTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -494,6 +646,7 @@
 		};
 		3DCB9CCC25C7D34500ECA2E3 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = FA6D3E39517AC502AA4E3AF9 /* Pods-MooVeeTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -515,6 +668,7 @@
 		};
 		3DCB9CCE25C7D34500ECA2E3 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = DA033268357FD693A5D09EBE /* Pods-MooVee-MooVeeUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -534,6 +688,7 @@
 		};
 		3DCB9CCF25C7D34500ECA2E3 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 252F8F9E8E0DD2B03FECAC75 /* Pods-MooVee-MooVeeUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;

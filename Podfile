@@ -6,9 +6,7 @@ target 'MooVee' do
   use_frameworks!
 
   # Pods for MooVee
-  pod 'Alamofire', '~4.4'
-  pod '0AuthSwift', '~> 1.1.0'
-  pod '0AuthSwiftAlamofire'
+  pod "AlamofireImage"
 
   target 'MooVeeTests' do
     inherit! :search_paths
