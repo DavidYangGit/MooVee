@@ -3,10 +3,11 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3D55ADE825D0E9B7002025FD /* MovieDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D55ADE725D0E9B7002025FD /* MovieDetailsViewController.swift */; };
 		3DCB9CA125C7D34400ECA2E3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DCB9CA025C7D34400ECA2E3 /* AppDelegate.swift */; };
 		3DCB9CA325C7D34400ECA2E3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DCB9CA225C7D34400ECA2E3 /* SceneDelegate.swift */; };
 		3DCB9CA825C7D34400ECA2E3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3DCB9CA625C7D34400ECA2E3 /* Main.storyboard */; };
@@ -40,6 +41,7 @@
 
 /* Begin PBXFileReference section */
 		252F8F9E8E0DD2B03FECAC75 /* Pods-MooVee-MooVeeUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MooVee-MooVeeUITests.release.xcconfig"; path = "Target Support Files/Pods-MooVee-MooVeeUITests/Pods-MooVee-MooVeeUITests.release.xcconfig"; sourceTree = "<group>"; };
+		3D55ADE725D0E9B7002025FD /* MovieDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieDetailsViewController.swift; sourceTree = "<group>"; };
 		3D7E21D9DB4A3B6445E7DF54 /* Pods_MooVeeTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MooVeeTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3DCB9C9D25C7D34400ECA2E3 /* MooVee.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MooVee.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3DCB9CA025C7D34400ECA2E3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -103,7 +105,6 @@
 				44AB4A565A92A88AF09BB322 /* Pods-MooVeeTests.debug.xcconfig */,
 				FA6D3E39517AC502AA4E3AF9 /* Pods-MooVeeTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -150,6 +151,7 @@
 				3DCB9CAE25C7D34500ECA2E3 /* Info.plist */,
 				3DCB9CD625C7DAB000ECA2E3 /* MoviesViewController.swift */,
 				3DCB9CE325C8E63700ECA2E3 /* MovieCell.swift */,
+				3D55ADE725D0E9B7002025FD /* MovieDetailsViewController.swift */,
 			);
 			path = MooVee;
 			sourceTree = "<group>";
@@ -410,6 +412,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3D55ADE825D0E9B7002025FD /* MovieDetailsViewController.swift in Sources */,
 				3DCB9CA125C7D34400ECA2E3 /* AppDelegate.swift in Sources */,
 				3DCB9CA325C7D34400ECA2E3 /* SceneDelegate.swift in Sources */,
 				3DCB9CE425C8E63700ECA2E3 /* MovieCell.swift in Sources */,
