@@ -16,7 +16,7 @@ MooVee is an app that allows users to browse movies from the [The Movie Database
 
 ### App Walkthrough GIF
 
-<img src=https://submissions.us-east-1.linodeobjects.com/ios_university/WbwE9GyU.gif width=250><br>
+<img src="https://submissions.us-east-1.linodeobjects.com/ios_university/WbwE9GyU.gif" width=250><br>
 
 ### Notes
 No challenges other than forgetting to modify the estimate size.
@@ -38,7 +38,7 @@ No challenges other than forgetting to modify the estimate size.
 
 ### App Walkthrough GIF
 
-<img src="hhttps://submissions.us-east-1.linodeobjects.com/ios_university/xHeaLGiJ.gif" width=250><br>
+<img src="https://submissions.us-east-1.linodeobjects.com/ios_university/xHeaLGiJ.gif" width=250><br>
 
 ### Notes
 I had to use Rosetta terminal and various commands for permission for various downloads such as Ruby extensions and command line tools but eventually I got Alamofire to work.
