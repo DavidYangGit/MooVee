@@ -16,7 +16,7 @@ MooVee is an app that allows users to browse movies from the [The Movie Database
 
 ### App Walkthrough GIF
 
-<img src="https://submissions.us-east-1.linodeobjects.com/ios_university/WbwE9GyU.gif?raw=true" width=250px><br>
+<img src="https://media3.giphy.com/media/5rpqHLcayenNwfv65h/giphy.gif" width=250px><br>
 
 ### Notes
 No challenges other than forgetting to modify the estimate size.
